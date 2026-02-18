@@ -21,16 +21,22 @@ This project demonstrates practical implementation of database connectivity and 
 ## 📂 Project Structure
 
 LibraryManagementSystem/
-│
-├── Main.java
-├── DBconnection.java
-├── Student.java
-├── Book.java
-├── Issue.java
-└── README.md
+
+        │
+
+        ├── Main.java
+
+        ├── DBconnection.java
+
+        ├── Student.java
+
+        ├── Book.java
+
+        ├── Issue.java
+
+        └── README.md
 
 ---
-
 ## ⚙ Features
 
 ### 👨‍🎓 Student Management
